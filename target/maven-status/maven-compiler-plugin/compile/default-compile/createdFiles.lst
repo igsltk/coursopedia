@@ -1,0 +1,13 @@
+ru\igsltk\coursopedia\repository\StudentCourseRepository.class
+ru\igsltk\coursopedia\controller\AppendController.class
+ru\igsltk\coursopedia\entity\Student.class
+ru\igsltk\coursopedia\controller\CourseController.class
+ru\igsltk\coursopedia\CoursopediaApplication.class
+ru\igsltk\coursopedia\controller\StudentController.class
+ru\igsltk\coursopedia\repository\CourseRepository.class
+ru\igsltk\coursopedia\service\StudentCourseService.class
+ru\igsltk\coursopedia\entity\Course.class
+ru\igsltk\coursopedia\service\CourseService.class
+ru\igsltk\coursopedia\repository\StudentRepository.class
+ru\igsltk\coursopedia\entity\StudentCourse.class
+ru\igsltk\coursopedia\service\StudentService.class

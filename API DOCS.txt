@@ -1,0 +1,26 @@
+GET /api/v1/courses
+GET /api/v1/students
+
+POST /api/v1/courses/add
+	data = {
+		"name": "JavaPro",
+		"description": "Java Course for professionals",
+	}
+
+
+
+POST /api/v1/students/add
+	data = {
+		"firstname": "Max",
+		"lastname": "Simons",
+		"username": "max.sim",
+	}
+
+
+
+POST /api/v1/student/course/add
+	data = {
+		"studentid": 1,
+		"courseid": 1,
+		
+	}
