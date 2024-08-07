@@ -22,7 +22,7 @@ print(json.dumps(data, indent=4))
 
 
 
-url = "http://192.168.0.42:8080/api/v1/courses/add"
+url = "http://localhost:8080/api/v1/courses/add"
 data = {
     "name": "JavaPro",
     "description": "Java Course for professionals",
@@ -38,7 +38,7 @@ print('\n######################################\n')
 
 
 
-url = "http://192.168.0.42:8080/api/v1/students/add"
+url = "http://localhost:8080/api/v1/students/add"
 data = {
     "firstname": "Max",
     "lastname": "Simons",
@@ -55,7 +55,7 @@ print('\n######################################\n')
 
 
 
-url = "http://192.168.0.42:8080/api/v1/student/course/add"
+url = "http://localhost:8080/api/v1/student/course/add"
 data = {
     "studentid": 1,
     "courseid": 1,
